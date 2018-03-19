@@ -38,6 +38,6 @@ public abstract class Cake {
 		
 	}
 	public void packCake(){
-		System.out.println("cake packed");
+		
 	}
 }
