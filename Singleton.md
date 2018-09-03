@@ -11,7 +11,7 @@
 
 
 
-# Approach which prevents Singleton form Reflextion/Serialization/
+# Approach which prevents Singleton form Reflextion/Serialization/Cloning
 
 
 
