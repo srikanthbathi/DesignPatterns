@@ -1,3 +1,9 @@
+## Memory that can be shared between threads are called shared memory or heap memory.
+## All instance fields, static fields, and array elements are stored in heap memory. 
+## Local varibles, formal method parameters and exception handler parameters are never shared between thrads.
+## Two accesses to (reads of or writes to) the same variable are said to be conflicting if at least one of the accesses is a write.
+
+
 # Lazy Initialization Approach: 
 
         Do follow the following steps.
